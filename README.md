@@ -1,4 +1,4 @@
-# HTML Newspaper Recreation - [Newspaper Name]
+# HTML Newspaper Recreation - nawaiwaqt
 
 ## Student Information
 - **Name:** Muhammad Inshal Yousaf
